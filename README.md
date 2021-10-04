@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irayesh007
-- 👀 I’m interested in coding
+- 👀 I’m gaining interest in coding:)
 - 🌱 I’m currently learning ipython
 - 💞️ I’m looking to collaborate on new projects soon
 - 📫 You can reach me via📧 rayeshkamath111@gmail.com
