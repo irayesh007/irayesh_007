@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @irayesh_007
+- 👋 Hi, I’m Rayesh Kamath
 - 👀 I’m gaining interest in coding:)
 - 🌱 I’m currently learning ipython
 - 💞️ I’m looking to collaborate on new projects soon
